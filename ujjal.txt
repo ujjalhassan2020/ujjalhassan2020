@@ -2,11 +2,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Page Title</title>
+<title>ujjal</title>
 </head>
 <body>
 
-<h3>This is a offer </h3>
-<p>clime now to get 25$ bonus</p><button><nav><ol><li><a href="my site.html">ujjalujjal</a></li></nav></button><nav><ol><li><a href="my site.html">ujjalujjal</a></li><li><a href="https://www.facebook.com/ujjalhassan2020?mibextid=ZbWKwL">ruman</a></li></ol></nav>
+<h3>This is my fast site</h3>
+<p>click hear to see</p><button><nav><ol><li><a href="my site.html">ujjalujjal</a></li></nav></button><nav><ol><li><a href="my site.html">ujjalujjal</a></li><li><a href="https://www.facebook.com/ujjalhassan2020?mibextid=ZbWKwL">ruman</a></li></ol></nav>
 </body>
 </html>
